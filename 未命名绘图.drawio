@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="42EEFeFm0QrcEyeCjbr3-199" value="&#xa;项目理解" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Verdana;fontSize=40;verticalAlign=top;fontStyle=1;labelBackgroundColor=none;rounded=0;shadow=0;fontColor=none;noLabel=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="42EEFeFm0QrcEyeCjbr3-199" value="&#xa;项目理解" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Verdana;fontSize=40;verticalAlign=top;fontStyle=1;labelBackgroundColor=none;rounded=0;shadow=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="-150" width="1580" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="42EEFeFm0QrcEyeCjbr3-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;dashed=1;dashPattern=1 2;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="42EEFeFm0QrcEyeCjbr3-148" target="42EEFeFm0QrcEyeCjbr3-149">
